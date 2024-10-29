@@ -1,0 +1,14 @@
+/* Colors inspired by Monokai for different types */
+pre code .command {
+  color: #66d9ef; /* Blue for commands */
+}
+pre code .arg {
+  color: #a6e22e; /* Green for arguments */
+}
+pre code .path {
+  color: #fd971f; /* Orange for paths */
+  font-style: italic;
+}
+pre code .variable {
+  color: #f92672; /* Pinkish-red for variables */
+}
